@@ -1,3 +1,8 @@
+# Latest News
+
+Have a build (over 25MB sadly) which includes the music, etc.
+I'll have to figure out a way to upload it later sadly...
+
 # PrBoom3
 PrBoom3 (for macOS 'Sonoma' and earlier).
 
