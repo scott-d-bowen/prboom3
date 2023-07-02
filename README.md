@@ -16,6 +16,11 @@ brew install sdl2_mixer
 
 brew install sdl2_net
 
+**Install TiMIDIty** (for Music)
+
+brew install timidity
+
+Install EAWPats (for example), and then copy 'timidity.cfg' to the ./prboom-plus binary executables location, and edit 'timidity.cfg' to point to dir ./EAWPats at the two locations within the file that are commented and described as such. (Assuming ./EAWPats is a sub-folder within the ./prboom-plus folder).
 
 # Latest News
 
