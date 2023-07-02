@@ -18,6 +18,16 @@ brew install sdl2_net
 
 brew install timidity
 
+**Copy the DOOM.WAD (IWAD) to the Applications Support sub-folder**
+
+In **Terminal** the full path will look like the below:
+
+/Users/%USERNAME%/Library/Application\ Support/prboom-plus/doom.wad
+
+**Note**: 'doom.wad' and 'DOOM.WAD' are different filenames, as macOS and OS X are case sensitive!
+
+Then run **./prboom-plus** after compiling it, if it does not run right-click upon the binary executable and then click Open.
+
 **Install EAWPats** (for Sound/Music Instrument Patch support, for example), and then copy 'timidity.cfg' to the ./prboom-plus binary executables location, and edit 'timidity.cfg' to point to dir ./EAWPats at the two locations within the file that are commented and described as such. (Assuming ./EAWPats is a sub-folder within the ./prboom-plus folder).
 
 # Latest News
