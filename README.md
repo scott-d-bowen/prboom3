@@ -8,8 +8,6 @@
 
 brew install sdl2
 
-brew install libSDL2
-
 brew install sdl2_image
 
 brew install sdl2_mixer
