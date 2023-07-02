@@ -1,3 +1,22 @@
+# Instructions
+
+**Install Homebrew**
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" 
+
+**Install SDL2**
+
+brew install sdl2
+
+brew install libSDL2
+
+brew install sdl2_image
+
+brew install sdl2_mixer
+
+brew install sdl2_net
+
+
 # Latest News
 
 Have a build (over 25MB sadly) which includes the music, etc.
